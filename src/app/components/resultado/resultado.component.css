@@ -1,0 +1,29 @@
+.fondoItem {
+    background-color: #FF111328;
+    height: 430px;
+    border-radius: 20px;
+    color: white;
+}
+
+.resultado {
+    font-family: 'Zen Dots', cursive;
+    color: #12BD45;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.estiloNumero{
+    font-family: 'Zen Dots', cursive;
+    font-size: 80px;
+    font-weight: 700;
+    padding-top: 25px;
+    padding-bottom: 45px;
+}
+
+.interpretacion{
+    font-family: 'Zen Dots', cursive;
+    margin: 10px;
+    font-size: 18px;
+    text-align: center;
+}
